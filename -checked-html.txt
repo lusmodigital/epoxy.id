@@ -1,0 +1,4 @@
+category/uncategorized/index.html
+hello-world/index.html
+index.html
+wp-json/index.html
